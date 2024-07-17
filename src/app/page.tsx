@@ -11,13 +11,13 @@ export const metadata: Metadata = {
       title: "Price Feed Farcaster Frame",
       description: "ETH & BTC Price Feed Farcaster Frame",
       images: [
-        "http://localhost:3002/background.png"
+        "https://livepeer-frame.vercel.app/background.png"
       ],
       
   },
   other: {
     "fc:frame": "vNext",
-    "fc:frame:image": "http://localhost:3002/background.png",
+    "fc:frame:image": "https://livepeer-frame.vercel.app/background.png",
     "fc:frame:image:aspect_ratio":"1:1",
     "fc:frame:post_url": ``,
     "fc:frame:button:1": "Let's start",
