@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@coinbase/onchainkit": "^0.5.1",
     "@neynar/nodejs-sdk": "^1.37.2",
     "next": "14.2.5",
     "react": "^18",
